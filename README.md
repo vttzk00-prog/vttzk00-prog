@@ -17,5 +17,5 @@
 │ 🍰 Sonho → Java │
 │ 🏆 Missão → Maratonas │
 │ 🧙 Classe → Aprendiz de Mago │
-│ ✦ Rank → Mago Supremo (?) │
+│ ✦ Rank → Aprendiz de Mago Supremo   │
 ╰──────────────────────────────────────╯
