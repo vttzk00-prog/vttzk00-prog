@@ -6,22 +6,16 @@
 
 </div>
 
-
-
 <div align="center">
 
-<h3>୨୧ ✦ Sobre mim ✦ ୨୧</h3>
-
-<p>
-  <strong>🪄 Membro da <font color="#C084FC">TriMagoElite</font></strong>
-  <br>
-  <strong>💻 Foco na linguagem <font color="#A78BFA">C</font></strong>
-  <br>
-  <strong>🍰 Vivendo em <font color="#8B5CF6">C</font>, sonhando com <font color="#C084FC">Java</font></strong>
-  <br>
-  <strong>🏆 Estudando para <font color="#A855F7">maratonas</font></strong>
-  <br>
-  <strong>🧙 Aprendiz de <font color="#7C3AED">mago supremo</font></strong>
-</p>
-
-</div>
+```txt
+╭──────────────────────────────────────╮
+│ ✦ VTTZK — STATUS ✦ │
+├──────────────────────────────────────┤
+│ 🪄 Guilda → TriMagoElite │
+│ 💻 Especialidade → Linguagem C │
+│ 🍰 Sonho → Java │
+│ 🏆 Missão → Maratonas │
+│ 🧙 Classe → Aprendiz de Mago │
+│ ✦ Rank → Mago Supremo (?) │
+╰──────────────────────────────────────╯
