@@ -1,3 +1,8 @@
+
+Vitra <vttzk00@gmail.com>
+4:14 PM (0 minutes ago)
+to me
+
 <div align="center">
 
 # `Vttzk_`
@@ -8,8 +13,24 @@
 
 <br>
 
-> `printf("ebaa");`
+> `printf("Oi! Eu sou a Vttzk.");`
 >
-> `// estudante de programação em constante humilhaçao rs`
+> `// estudante de programação em constante humilhaçao`
 
 </div>
+
+---
+
+## `> whoami`
+
+```c
+#include <stdio.h>
+
+int main() {
+
+    printf("Oiee! Me chamo Vitória!\n");
+    printf("Programo por diversão, mas quem sabe?\n");
+    printf("Sou fiel a linguagem C!\n");
+    printf("meu objetivo é humilhar os ricos usuarios de python!\n");
+
+    return 0;
