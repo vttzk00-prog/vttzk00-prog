@@ -8,8 +8,8 @@
 
 <br>
 
-> `printf("Oi! Eu sou a Vttzk.");`
+> `printf("ebaa");`
 >
-> `// estudante de programação em constante evolução`
+> `// estudante de programação em constante humilhaçao rs`
 
 </div>
